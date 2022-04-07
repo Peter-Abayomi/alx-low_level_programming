@@ -1,22 +1,3 @@
-File Edit Options Buffers Tools C Help
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #include "main.h"
 
 /**
